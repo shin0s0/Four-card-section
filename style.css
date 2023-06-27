@@ -59,7 +59,7 @@
     border-radius: 3px;
     box-shadow: 10px 10px 60px rgba(35, 129, 235, 0.1);
     width:33%; 
-    height:60%;
+    height:195px;
     margin:80px 10px 10px 85px;
 }
 .card2{
@@ -93,7 +93,7 @@
     border-radius: 3px;
     box-shadow: 10px 10px 60px rgba(35, 129, 235, 0.1);
     width:33%;
-    height:60%;
+    height:195px;
     margin:80px 85px 10px 10px;
 }
 
@@ -140,7 +140,7 @@
   
     .card1 {
         width: 90%;
-        height:27vh;
+        margin-top:10px;       
         margin-right:80px;
       
     }
@@ -152,7 +152,7 @@
       }
     .card4 {
       width: 90%;
-      height:27vh;
+      margin-top:30px;
       margin-left:80px;
       margin-bottom:60px;  
     }
